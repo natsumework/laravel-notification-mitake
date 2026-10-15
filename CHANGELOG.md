@@ -2,6 +2,11 @@
 
 All notable changes to `laravel-notification-mitake` will be documented in this file
 
+## 1.3.0 - 2026-10-15
+
+- Add support for Laravel 12
+- Add support for Guzzle 8
+
 ## 1.2.0 - 2024-05-22
 
 - Add support for Laravel 9, 10, 11

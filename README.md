@@ -4,7 +4,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Total Downloads](https://img.shields.io/packagist/dt/natsumework/laravel-notification-mitake.svg?style=flat-square)](https://packagist.org/packages/natsumework/laravel-notification-mitake)
 
-This package(non-official) makes it easy to send notifications using [Mitake](https://sms.mitake.com.tw/common/index.jsp) with Laravel 5.5+ and 6.x and 7.x
+This package(non-official) makes it easy to send notifications using [Mitake](https://sms.mitake.com.tw/common/index.jsp) with Laravel 5.5+ up to 12.x
 
 Here's the latest documentation on Laravel's Notifications System: 
 
